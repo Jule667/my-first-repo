@@ -1,2 +1,2 @@
-# my-first-repo minor update!
+# my-first-repominor changes!
 Practice account for learning git
